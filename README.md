@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bruno Filho
+# 👨🏻‍💻 Bruno Filho
 
 **`Desenvolvedor web`**
 
