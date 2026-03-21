@@ -2,7 +2,7 @@
 
 **`Desenvolvedor web`**
 
-Me chamo Bruno Luiz Philip de Lima Filho, tenho 11 anos e sou natural do Rio Grande do Norte. Concluí um curso de desenvolvimento web em 2024, com os cursos em HTML, CSS e Javascript. Atualmente, estou estudando Python. Sempre gostei muito de tecnologia e criei no ano de 2026 uma linguagem de programação chamada Coffe Language que está disponível no GitHub: [link da linguagem](https://github.com/brunosites/coffe_lenguage).
+Me chamo Bruno Luiz Philip de Lima Filho, tenho 11 anos e sou natural do Rio Grande do Norte. Concluí um curso de desenvolvimento web em 2024, com os cursos em HTML, CSS e Javascript. Atualmente, estou estudando Python. Sempre gostei muito de tecnologia e criei no ano de 2026 uma linguagem de programação chamada SuperC que está disponível no GitHub: [link da linguagem](https://github.com/brunosites/super-c-lenguage).
 
 ### 🤖 Linguagens e Tecnologias
 
