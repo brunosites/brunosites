@@ -1,11 +1,11 @@
 # 👨🏻‍💻 Bruno Filho
 
-**`Desenvolvedor web`**
-**`Engenheiro de softwere`**
+**`Web Developer`**  
+**`Software Engineer`**
 
-Me chamo Bruno Luiz Philip de Lima Filho, tenho 11 anos e sou natural do Rio Grande do Norte. Concluí um curso de desenvolvimento web em 2024, com os cursos em HTML, CSS e Javascript. Também programo em python. Sempre gostei muito de tecnologia e criei no ano de 2026 uma linguagem de programação chamada SuperC que está disponível no GitHub: [link da linguagem](https://github.com/brunosites/super-c-lenguage).
+My name is Bruno Luiz Philip de Lima Filho, I am 11 years old and I am from Rio Grande do Norte, Brazil. I completed a web development course in 2024, covering HTML, CSS, and JavaScript. I also program in Python. I have always been very interested in technology, and in 2026 I created a programming language called SuperC, which is available on GitHub: [language link](https://github.com/brunosites/super-c-lenguage).
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
