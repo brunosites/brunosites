@@ -2,6 +2,9 @@
 
 **`Web Developer`**  
 **`Software Engineer`**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python;Java;c#;Javascript" />
+</p>
 
 My name is Bruno Luiz Philip de Lima Filho, I am 11 years old and I am from Rio Grande do Norte, Brazil. I completed a web development course in 2024, covering HTML, CSS, and JavaScript. I also program in Python. I have always been very interested in technology, and in 2026 I created a programming language called SuperC, which is available on GitHub: [language link](https://github.com/brunosites/super-c-lenguage).
 
